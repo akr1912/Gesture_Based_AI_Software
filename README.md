@@ -10,13 +10,14 @@ Description of the Gestures:
 
 What You Can Control :
 1. Set the alarm
-2. ask the time 
-3. check the weather
-4. Open Youtube
-5. Open Google
-6. Open C Compiler
-7. Open Java Compiler
-8. Shutdown the system
-9. Restart the system
+2. Ask the time 
+3. Check the weather
+4. Google anything by giving the voice commands
+5. Open Youtube
+6. Open Google
+7. Open C Compiler
+8. Open Java Compiler
+9. Shutdown the system
+10. Restart the system
 
-# Feel Free By USing This AI Based Software , and Expeience the Future ;-) !!
+# Feel Free By Using This AI Based Software, and Experience the Future ;-) !!
