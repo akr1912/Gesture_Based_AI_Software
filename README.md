@@ -1,5 +1,5 @@
 # Gesture_Based_AI_Software
-A Gesture Based AI that will take control of all the computer system using the hand gestures, including the voice commands
+# A Gesture Based AI that will take control of all the computer system using the hand gestures, including the voice commands
 
 Description of the Gestures:
 1. Volume Up/Down
