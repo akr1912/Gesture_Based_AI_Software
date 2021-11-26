@@ -1,5 +1,5 @@
 # Gesture_Based_AI_Software
-By [@akr1912](https://github.com/akr1912/README.md) & [@abhiprshekiya](https://github.com/abhiprshekiya) 
+#### Designed By [@akr1912](https://github.com/akr1912/README.md) & [@abhiprshekiya](https://github.com/abhiprshekiya) 
 ## A Gesture Based AI that will take control of all the computer system using the hand gestures, including the voice commands
 
 ### Description of the Gestures:
@@ -36,4 +36,4 @@ By [@akr1912](https://github.com/akr1912/README.md) & [@abhiprshekiya](https://g
 15. Play Songs from the specified directory of your system using voice command
 16. And Many More..
 
-# Feel Free By Using This AI Based Software, and Experience the Future ;-) !!
+## Feel Free By Using This AI Based Software, and Experience the Future ;-) !!
