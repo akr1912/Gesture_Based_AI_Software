@@ -36,4 +36,4 @@
 15. Play Songs from the specified directory of your system using voice command
 16. And Many More..
 
-## Feel Free By Using This AI Based Software, and Experience the Future ;-) !!
+## Feel Free To Use This AI Based Software, and Experience the Future ;-) !!
