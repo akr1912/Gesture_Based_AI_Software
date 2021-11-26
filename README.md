@@ -1,8 +1,8 @@
 # Gesture_Based_AI_Software
-By @akr1912 & @abhiprshekiya 
-# A Gesture Based AI that will take control of all the computer system using the hand gestures, including the voice commands
+By @akr1912[https://github.com/akr1912/README.md](url) & @abhiprshekiya 
+## A Gesture Based AI that will take control of all the computer system using the hand gestures, including the voice commands
 
-# Description of the Gestures:
+### Description of the Gestures:
 1. Volume Up
 2. Volume Down
 3. Brigthness High
@@ -18,7 +18,7 @@ By @akr1912 & @abhiprshekiya
 13. Don't need any color combination to recognize the Hand Movement (Like Gloves or Tapes)
 14. Don't Need Any External Device Or thing To Get started
 
-# What You Can Control :
+### What You Can Control :
 1. Set the alarm using Voice Command
 2. Ask the time using voice command
 3. Check the weather using voice command
